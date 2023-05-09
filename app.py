@@ -37,7 +37,7 @@ st.markdown(
 
 
 # Homepage
-st.markdown("<h1 style='font-size: 48px; font-family: Arial, sans-serif;'>GSolver</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='font-size: 48px; font-family: Arial, sans-serif;'>GL Solver</h1>", unsafe_allow_html=True)
 st.markdown("###")
 
 
