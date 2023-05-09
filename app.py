@@ -25,15 +25,9 @@ st.markdown(
 
     [data-baseweb = "tab"]{
     background-color: rgba(0, 0, 0, 0);
-    font-color: rgba(255, 255, 255, 255)
+    color: white; 
     }
     
-    st.button > button {
-            
-            color: white;
-            
-            }
-
     </style>
     """,
     unsafe_allow_html=True
