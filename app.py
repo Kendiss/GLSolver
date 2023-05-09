@@ -80,7 +80,7 @@ with middle_column:
             <style>
             st.button > button {
             
-            font-color: #FFFFFF
+            color: white;
             
             }
             </style>
