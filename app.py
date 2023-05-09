@@ -2,7 +2,7 @@ import streamlit as st
 
 
 st.set_page_config(
-    page_title='GlSolver', 
+    page_title='GL Solver', 
     page_icon=':money_with_wings:',
     layout = "wide",)
 
