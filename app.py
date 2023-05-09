@@ -84,8 +84,7 @@ with middle_column:
             
             }
             </style>
-            """
-            unsafe_allow_html=True
+            """ ,unsafe_allow_html=True
         )
         left_column, middle_column, right_column = st.columns([1, 1, 1])
         button1 = left_column.button("BookKeeping & Financial Accounting")
