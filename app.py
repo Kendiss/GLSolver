@@ -25,7 +25,7 @@ st.markdown(
 
     [data-baseweb = "tab"]{
     background-color: rgba(0, 0, 0, 0);
-    font-color: #FFFFFF
+    font-color: rgba(255, 255, 255, 255)
     }
  
 
