@@ -26,7 +26,7 @@ st.markdown(
     [data-baseweb = "tab"]{
     background-color: rgba(0, 0, 0, 0); 
     }
-    [.css-67irmb]{
+    [class = "css-ustzx7 e16nr0p34"]{
     color: white;
     }
     
