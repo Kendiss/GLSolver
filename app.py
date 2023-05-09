@@ -36,21 +36,14 @@ st.markdown(
 
 
 
+# Homepage
+st.markdown("<h1 style='font-size: 48px; font-family: Arial, sans-serif;'>GL Solver</h1>", unsafe_allow_html=True)
 
 
 
 
 with st.container():
     left_column, middle_column, right_column = st.columns([1, 5, 1])
-
-with left_column:
-    # Homepage
-    st.markdown("<h1 style='font-size: 48px; font-family: Arial, sans-serif;'>GL Solver</h1>", unsafe_allow_html=True)
-    st.markdown("###")
-    st.markdown("###")
-    st.markdown("###")
-    st.markdown("###")
-    st.markdown("###")
 
     
     
