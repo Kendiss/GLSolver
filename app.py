@@ -75,8 +75,20 @@ with middle_column:
     
     #Container for the buttons
     with st.container():
+        st.markdown(
+            """
+            <style>
+            st.button > button {
+            
+            color: #FFFFFF
+            
+            }
+            </style>
+            """
+            unsafe_allow_html=True
+        )
         left_column, middle_column, right_column = st.columns([1, 1, 1])
-        button1 = left_column.button("<p style='color: White;'> BookKeeping & Financial Accounting</p>", unsafe_allow_html=True)
+        button1 = left_column.button("BookKeeping & Financial Accounting")
         button2 = right_column.button("Costing and Inventory Accounting")
         middle_column.write("###")
         button3 = middle_column.button("Process Improvement & Automation")
