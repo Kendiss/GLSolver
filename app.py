@@ -75,7 +75,7 @@ with middle_column:
     #Container for the buttons
     with st.container():
         left_column, middle_column, right_column = st.columns([1, 1, 1])
-        button1 = left_column.button("<h1 style='color: white; font-family: Arial, sans-serif;'>BookKeeping & Financial Account</h1>", unsafe_allow_html=True)
+        button1 = left_column.button("<h1 style='color: #FFFFFF; font-family: Arial, sans-serif;'>BookKeeping & Financial Account</h1>", unsafe_allow_html=True)
         button2 = right_column.button("Costing and Inventory Accounting")
         middle_column.write("###")
         button3 = middle_column.button("Process Improvement & Automation")
