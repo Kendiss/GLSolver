@@ -21,11 +21,13 @@ st.markdown(
 
     [data-testid ="stMarkdownContainer"]{
     background-color: rgba(0, 0, 0, 0);
-    color: white;
     }
 
     [data-baseweb = "tab"]{
     background-color: rgba(0, 0, 0, 0); 
+    }
+    [.css-67irmb]{
+    color: white;
     }
     
     </style>
